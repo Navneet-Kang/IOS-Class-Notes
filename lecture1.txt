@@ -1,0 +1,103 @@
+IOS NATIVE Mobile Application Development
+
+Language :: objective-C ,Swift
+Swift - 3.0 ,4.0 ,5.0
+
+3.0 UIColor.red
+
+5.0 -.red
+Latest Version ios - 14.2
+
+IOs 11,12,13,14 and later
+
+OS: IOS,Mac OS , Apple TV , iWatch
+
+IDE : XCODE
+
+Testing Device - iPhone Simulator,Real Device
+Db:Sqllite
+Coredata
+Plist
+UserDefaults
+
+JSON?
+HTTP Protocols
+Get,Post,Put,Delete
+A->B
+
+iPA = iPhone Application Package - udid
+
+App Store
+Developer Account - 99$ per Year
+Android :: 10, 
+
+
+Distribution Account 
+HCL - Car Parking IOS App
+
+App Store Submission
+Push Notification
+Daily one hour Class + 4 Hours Practice + 4 Hours To Study
+
+BASIC idea about IOS Architecture
+
+
+C language -header files
+Stdio.h
+
+Java -Package
+.io
+.lang
+.util
+
+In App
+What is framework?
+
+
+Cocoa Touch
+Media
+Core Services
+Core OS
+
+Cocoa Touch Framework
+UIKIT and Foundation
+UIKIT - user Interface kit
+'UIButton
+UI Label
+UIImageView
+UITextField
+UITextView
+UITableView
+UICollectionView
+
+Foundation : Data
+
+Array
+String
+Dictionary
+Set 
+Logs
+Date
+Print
+
+Media : Audio,Video,Animation,Gaming,Graphics
+Audio-- AVFoundation,AVKit
+
+Study:
+Collection ::: Swift Collection
+i)How to declare a variable in swift
+ii)What is let?
+iii)What is var?
+iv)String 
+v)Array
+vi)Dictionary
+vii)Set
+viii)Functions with argument and return type
+
+
+
+
+
+
+
+

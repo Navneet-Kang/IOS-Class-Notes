@@ -1,0 +1,38 @@
+PICKERVIEW
+
+IF ANY protocol is without Optional then we have to mandatorily override it.
+
+PickerView
+
+1)Number Of Components
+2)Number of Rows In Component
+
+if(component == 0)
+{
+return vowel.count
+
+}
+else
+{
+return alpha.count
+}
+
+
+3)func pickerView ( titleForRow )
+{
+
+
+}
+
+4)didSelectRow
+
+
+pickerLabel.text = vowel[row]
+
+
+
+Remember to Add DataSource and Delegate and Connect
+
+
+Refer To Parent Class
+

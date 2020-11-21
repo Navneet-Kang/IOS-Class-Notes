@@ -1,0 +1,56 @@
+1) Guard let
+Scope will be visible to outside
+
+if let vs Guard Let
+For guard let,we can place the print in else
+
+2)How o create label dynamically
+//CGRect -Core Graphics Rectangle Make
+let label = UILabel(frame:CGRECT(x:100,y:100,width:100,height:100)
+label.backgroundColor = .red
+label.text="Hello World"
+label.textAlignment= .center
+self.view.addSubView(label)
+
+3)Jump To Property
+command + Click
+
+4)Dynamic Creation
+let textField = UITextfield(frame:CGRECT(x:100,y:100,width:100,height:100)
+textField.backgroundColor = .red
+textField.text="Hello World"
+textField.textAlignment= .center
+textField.view.addSubView(label)
+
+5)Protocol
+List contains collects of predefined methods for the particular classes.
+
+i)Required
+ii)Optional
+iii)Delegates
+Its an object ,Its used to call the predefined methods when and event happens.
+
+First Recognize The Protocol and Override the method in viewController
+Afterwards,Add Delegate tO vIEW
+WRITE textField.resignFirstResponder()
+
+
+func textFieldShouldReturn(_ )
+{
+
+
+}
+
+Explore at least 5 methods..
+
+Protocol
+
+Its contains collections of  predefined methods for the particular classs
+Two categories
+Required
+Optional
+
+Delegate
+Its an object, Its used to call the predefined
+ Methods when and event happens
+

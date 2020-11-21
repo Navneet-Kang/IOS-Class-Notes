@@ -1,0 +1,9 @@
+1)Optional Binding
+2)Optional Chaining - Works like && operator
+3)?? - Double Question Mark ,Used to give value
+4)
+Open View Controller and connect the button
+from there with Main Story Board
+5)sender.tag
+
+Editor-Structure-Intent
